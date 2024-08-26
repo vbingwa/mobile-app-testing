@@ -1,0 +1,7 @@
+screens\HomeScreen.class
+screens\LoginScreen.class
+screens\ProductScreen.class
+screens\CheckoutScreen.class
+screens\PaymentScreen.class
+com\vuyisabingwatest\App.class
+screens\CartScreen.class

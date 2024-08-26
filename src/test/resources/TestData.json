@@ -1,0 +1,22 @@
+{
+  "addressDetails": {
+    "fullName": "Vuyisa Bingwa",
+    "streetAddress": "123 Main St",
+    "apartment": "Apt 4B",
+    "city": "Springfield",
+    "state": "IL",
+    "zipCode": "62701",
+    "country": "USA"
+  },
+  "paymentDetails": {
+    "cardHolderName": "Vuyisa Bingwa",
+    "cardNumber": "4111111111111111",
+    "expiryDate": "12/25",
+    "cvv": "123"
+  },
+  "loginDetails": {
+    "invalidUsername": "vuyisa",
+    "invalidPassword": "hkgasd"
+  }
+}
+

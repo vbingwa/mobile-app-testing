@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "platformVersion": "15.0",
+  "deviceName": "Pixel_3",
+  "automationName": "UiAutomator2",
+  "app": "C:\\Users\\X495037\\Downloads\\Android-MyDemoAppRN.1.3.0.build-244.apk",
+  "appWaitActivity": "com.saucelabs.mydemoapp.rn.MainActivity"
+}
