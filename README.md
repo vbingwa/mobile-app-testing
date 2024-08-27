@@ -37,7 +37,8 @@ If Maven is not installed, download and install it from the Maven website.
 Clone this repository:
 
 
-git clone https://github.com/your-repo/your-project.git
+git clone https://github.com/vbingwa/mobile-app-testing.git
+
 cd your-project
 Navigate to the project directory and install the required Maven dependencies:
 
